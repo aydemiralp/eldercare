@@ -1,3 +1,3 @@
 # Dashboard-UI-Android
 Minimal Dashboard UI in Android Studio using GridLayout!
-![center](https://cdn.dribbble.com/users/2352042/screenshots/9066838/media/4ac122939ed790f35ea05ec839fc923c.png)
+![center](https://dribbble.com/shots/16032770/?apply_modal=true&from_modal_cta=true&utm_source=Clipboard_Shot&utm_campaign=lancelott7&utm_content=elder-care&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=lancelott7&utm_content=elder-care&utm_medium=Social_Share)
